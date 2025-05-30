@@ -101,4 +101,4 @@ jobs:
         with:
           context: ./frontend/
           push: true
-          tags: username/kittygram_frontend:latest
+          tags: sashamehaev/kittygram_frontend:latest
