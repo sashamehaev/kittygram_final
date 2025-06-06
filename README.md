@@ -28,7 +28,7 @@ http://127.0.0.1:9000/
  https://sashamehaev-kittygr.bounceme.net/api/cats
  ```
 
- При запросе по этому адресу можно получить, отредактировать или удалить котика
+ * При запросе по этому адресу можно получить, отредактировать или удалить котика
  ```
  https://sashamehaev-kittygr.bounceme.net/api/cats/pk
  ```
@@ -39,12 +39,12 @@ http://127.0.0.1:9000/
  https://sashamehaev-kittygr.bounceme.net/api/achievements
  ```
 
- При запросе по этому адресу можно получить, добавить, обновить, удалить достижения котика
+ * При запросе по этому адресу можно получить, добавить, обновить, удалить достижения котика
  ```
  https://sashamehaev-kittygr.bounceme.net/api/achievements/pk
  ```
 
- Панель администратора
+ * Панель администратора
  ```
  https://sashamehaev-kittygr.bounceme.net/admin
  ```
