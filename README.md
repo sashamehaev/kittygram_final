@@ -32,6 +32,17 @@ http://127.0.0.1:9000/
  https://sashamehaev-kittygr.bounceme.net/api/cats/pk
  ```
 
+ * При GET запросе будут отправлены все достижения клиенту
+ * При POST запросе будет создано новое достижение
+ ```
+ https://sashamehaev-kittygr.bounceme.net/api/achievements
+ ```
+
+ При запросе по этому адресу можно получить, добавить, обновить, удалить достижения котика
+ ```
+ https://sashamehaev-kittygr.bounceme.net/api/achievements/pk
+ ```
+
  Панель администратора
  ```
  https://sashamehaev-kittygr.bounceme.net/admin
