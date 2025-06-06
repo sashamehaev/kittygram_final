@@ -20,6 +20,18 @@ docker compose exec backend cp -r /app/collected_static/. /backend_static/static
 http://127.0.0.1:9000/
 ```
 
+## Примеры запросов
+ При GET запросе будут отправлены все котики клиенту
+ При POST запросе будет создан котик
+ ```
+ https://sashamehaev-kittygr.bounceme.net/api/cats
+ ```
+
+ При запросе по этому адресу можно получить, отредактировать или удалить котики
+ ```
+ https://sashamehaev-kittygr.bounceme.net/api/cats/pk
+ ```
+
 ## Технологии:
 - Python
 - Django Rest Framework
